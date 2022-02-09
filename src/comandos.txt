@@ -1,0 +1,12 @@
+npx create-react-app bonusapp
+
+npm add bootswatch
+npm install react-router-dom@5.2.0
+
+npm i bootstrap 
+npm i reactstrap
+npm i axios
+
+npm i react-number-format
+npm i moments
+npm i string.prototype.replaceall
